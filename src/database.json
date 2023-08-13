@@ -1,0 +1,251 @@
+{
+  "users": {
+    "6285716244811@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "Gamon",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": false
+    },
+    "6289516947204@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "+62 895-1694-7204",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": false
+    },
+    "6289674674809@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "+62 896-7467-4809",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "6281352780129@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "Deo",
+      "age": 16,
+      "regTime": 1685520955242,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": true
+    },
+    "6283114853330@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "cika",
+      "age": 8,
+      "regTime": 1685520942731,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": true
+    },
+    "6281326129186@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "+62 813-2612-9186",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "6283803824707@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "rafa",
+      "age": 13,
+      "regTime": 1685523044281,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": true
+    },
+    "6283851191438@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "+62 838-5119-1438",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "6285156984318@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "udin",
+      "age": 17,
+      "regTime": 1685522922172,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": true
+    },
+    "6281398424939@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "~ Aura_XD",
+      "age": 13,
+      "regTime": 1685523225153,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": true
+    },
+    "62882003112573@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "+62 882-0031-12573",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "6285643591110@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "+62 856-4359-1110",
+      "age": -1,
+      "regTime": -1,
+      "premium": false,
+      "premiumTime": 0
+    },
+    "6285866392388@s.whatsapp.net": {
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "name": "Rizz",
+      "age": 22,
+      "regTime": 1685525942698,
+      "premium": false,
+      "premiumTime": 0,
+      "registered": true
+    }
+  },
+  "pasangan": {},
+  "chats": {
+    "6285716244811@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6289516947204@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6289674674809@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6281352780129@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6283114853330@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6281326129186@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6283803824707@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6283851191438@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6285156984318@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6281398424939@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6282283304493-1625843017@g.us": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "120363156042227969@g.us": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    },
+    "6285643591110@s.whatsapp.net": {
+      "antivionce": false,
+      "welcome": false,
+      "antilink": false,
+      "wame": false,
+      "antilink2": false
+    }
+  },
+  "game": {},
+  "menfes": {}
+}
